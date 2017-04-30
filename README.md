@@ -1,5 +1,5 @@
 hellow test
 
--Featrue-A
+-Feature-A
   -fix-B
-
+-feature-C
